@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\RP\New Obj Distance\android\lib_task_api\src\main\AndroidManifest.xml
+8-->D:\RP\Food obj testing\BlindAid\lib_task_api\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\RP\New Obj Distance\android\lib_task_api\src\main\AndroidManifest.xml
+9-->D:\RP\Food obj testing\BlindAid\lib_task_api\src\main\AndroidManifest.xml
 10
 11</manifest>

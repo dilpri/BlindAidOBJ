@@ -1,7 +1,7 @@
-org/tensorflow/lite/examples/detection/tflite/TFLiteObjectDetectionAPIModel.java
- org.tensorflow.lite.examples.detection.tflite.TFLiteObjectDetectionAPIModel
-org/tensorflow/lite/examples/detection/tflite/Detector.java
- org.tensorflow.lite.examples.detection.tflite.Detector
- org.tensorflow.lite.examples.detection.tflite.Detector$Recognition
+com/sliit/rp/blindaid/obstacle/tflite/TFLiteObjectDetectionAPIModel.java
+ com.sliit.rp.blindaid.obstacle.tflite.TFLiteObjectDetectionAPIModel
 org/tensorflow/lite/examples/detection/tflite/BuildConfig.java
  org.tensorflow.lite.examples.detection.tflite.BuildConfig
+com/sliit/rp/blindaid/obstacle/tflite/Detector.java
+ com.sliit.rp.blindaid.obstacle.tflite.Detector
+ com.sliit.rp.blindaid.obstacle.tflite.Detector$Recognition
